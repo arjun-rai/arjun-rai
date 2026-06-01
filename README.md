@@ -1,6 +1,6 @@
 # Hey, I'm Arjun Rai
 
-I'm a Computer Science student at Rice University building polished systems at the intersection of AI, perception, data, and product. I'm currently a summer intern at Moss Robotics working on perception, and I like taking ideas from prototype to shipped software, especially when they involve LLMs, retrieval, robotics, or tools that make a real workflow faster.
+I'm a Computer Science student at Rice University. I'm currently a summer intern at Moss Robotics, working on perception.
 
 [![Website](https://img.shields.io/badge/website-arjunrai.xyz-0f766e?style=flat-square)](https://arjunrai.xyz/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-arjun--rye-2563eb?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arjun-rye/)
@@ -9,8 +9,6 @@ I'm a Computer Science student at Rice University building polished systems at t
 ## Current Focus
 
 - Perception systems for robotics
-- LLM applications that are useful beyond the demo
-- Retrieval, recommendation, and semantic search systems
 - Full-stack product engineering with clean UX and reliable backend infrastructure
 - Robotics projects, including battle bot design and testing
 
