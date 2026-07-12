@@ -22,7 +22,7 @@ I'm a Computer Science student at Rice University. I'm currently a summer intern
 
 ## Experience Snapshot
 
-- **Summer Intern, Moss Robotics** - Working on perception for robotics systems.
+- **Perception Intern, Moss Robotics** - Working on perception for robotics systems.
 - **Software Engineer, RiceApps** - Building real-time voice-based interview practice with WebSockets, Cartesia, and LLM feedback.
 - **Software Engineering Intern, Code Wiz** - Shipped class management tooling with NestJS/Postgres and a faster AI report workflow.
 - **Software Engineering Intern, Gently** - Built ETL and embedding-based recommendation systems for semantic search at scale.
