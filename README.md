@@ -1,6 +1,6 @@
 # Hey, I'm Arjun Rai
 
-I'm a Computer Science student at Rice University. I'm currently a summer intern at Moss Robotics, working on perception.
+I'm a Computer Science student at Rice University. I'm currently an intern at Moss Robotics, working on perception.
 
 [![Website](https://img.shields.io/badge/website-arjunrai.xyz-0f766e?style=flat-square)](https://arjunrai.xyz/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-arjun--rye-2563eb?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arjun-rye/)
