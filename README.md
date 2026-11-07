@@ -9,8 +9,7 @@ I'm a Computer Science student at Rice University. I'm currently an intern at Mo
 ## Current Focus
 
 - Perception systems for robotics
-- Full-stack product engineering with clean UX and reliable backend infrastructure
-- Robotics projects, including battle bot design and testing
+- Full-stack product engineering
 
 ## Tech I Use
 
