@@ -13,7 +13,7 @@ I'm a Computer Science student at Rice University. I'm currently an intern at Mo
 
 ## Tech I Use
 
-**Languages:** Python, TypeScript, JavaScript, Java, C/C++, SQL, Swift  
+**Languages:** Python, TypeScript, JavaScript, Java, C, C++, SQL, Swift  
 **Frontend:** React, Next.js, Tailwind CSS, SwiftUI, shadcn/ui  
 **Backend:** Node.js, NestJS, FastAPI, Supabase, PostgreSQL, MySQL  
 **AI/Data:** PyTorch, TensorFlow, LangChain, Pinecone, embeddings, CUDA  
